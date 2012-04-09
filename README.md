@@ -6,6 +6,8 @@ Chef handler for sending exceptions to Ikachan
 * Gemfile
 
 ```
+source "http://rubygems.org"
+
 gem "chef-handler-ikachan", :git => "https://github.com/hiboma/chef-handler-ikachan"
 ```
 
