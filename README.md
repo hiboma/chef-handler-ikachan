@@ -3,9 +3,10 @@ Chef handler for sending exceptions to Ikachan
 
 # Install
 
+* Gemfile
 
 ```
-gem install chef-irc-ikachan
+gem "chef-handler-ikachan", :git => "https://github.com/hiboma/chef-handler-ikachan"
 ```
 
 # Config
